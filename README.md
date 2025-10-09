@@ -1,6 +1,15 @@
 ## Hi there 👋, I'm Xiangfei Shen
 
-Wellcome to my Github page, I'm currently working as a Lecturer at **Naval University of Engnieering** with the research interests in remote sensing (hyperspectral, multispectral, sar, optical images...), multi-source fusion, deep learning, etc.
+Wellcome to my Github page, I'm currently working as a Lecturer at Naval University of Engnieering with the research interests in remote sensing (hyperspectral, multispectral, sar, optical images...), multi-source fusion, deep learning, etc.
+
+### Selected Papers 
+
+|   Topic   |     Title     |    Resource  | Publication
+|:---------:|:-------------:|:------------:|:---------:|
+|   Fusion/SR  |   [Iteratively Regularizing Hyperspectral and Multispectral Fusion with Framelets](https://ieeexplore.ieee.org/document/10857648) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/XiangfeiShen/Demo_f3usion_HSI_SR/blob/main/Iteratively_Regularizing_Hyperspectral_and_Multispectral_Image_Fusion_With_Framelets.pdf) [![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/DRSR?style=social)](https://github.com/XiangfeiShen/Demo_f3usion_HSI_SR)) | IEEE J-Stars 25'
+|   Fusion/SR  |   [EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/32755) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ojs.aaai.org/index.php/AAAI/article/view/32755) [![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/DRSR?style=social)](https://github.com/enter-i-username/EigenSR)) | IEEE J-Stars 25'
+
+
 
 <!--
 **XiangfeiShen/XiangfeiShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
