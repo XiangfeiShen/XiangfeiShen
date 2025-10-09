@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Xiangfei Shen
 
+Wellcome to my Github page, I'm currently working as a Lecturer at **Naval University of Engnieering** with the research interests in remote sensing (hyperspectral, multispectral, sar, optical images...), multi-source fusion, deep learning, etc.
+
 <!--
 **XiangfeiShen/XiangfeiShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
